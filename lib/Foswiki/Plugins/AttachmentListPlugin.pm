@@ -22,7 +22,7 @@ use Foswiki::Meta;
 use Foswiki::Plugins::AttachmentListPlugin::FileData;
 use Foswiki::Plugins::TopicDataHelperPlugin;
 
-our $VERSION = '$Rev$';
+our $VERSION = '1.5';
 our $RELEASE = "1.5";
 our $SHORTDESCRIPTION =
 'Displays a formattable list of topic attachments - from any topic - anywhere in a topic';
